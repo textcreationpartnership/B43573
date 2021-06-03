@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the undertakers for reducing postage of inland letters to just and moderate rates, stated. And therein, the liberty of a commonwealth, the weal of the merchant and industrious trader, and the birthright of every free-man viindicated from monopolizing restraints, and mercenary farming of puplike [sic] offices.</title>
+            <author>Oxenbridge, Clement.</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43573</idno><idno type="EEBO-CITATION">767618608</idno>
+  <idno type="VID">212616</idno>
+  <idno type="EEBO-PROQUEST">2264208281</idno>
+  
+            <idno type="OCLC"> 767618608</idno>
+            <idno type="OCLC">ocn 767618608</idno>
+            <idno type="STC">Wing O835</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212616)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3022:2a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the undertakers for reducing postage of inland letters to just and moderate rates, stated. And therein, the liberty of a commonwealth, the weal of the merchant and industrious trader, and the birthright of every free-man viindicated from monopolizing restraints, and mercenary farming of puplike [sic] offices.</title>
+                  <author>Oxenbridge, Clement.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>By Clement Oxenbridge. Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University Library (New York, N.Y.).</note>
+                  <note>With: To all ingenuous people: a second intimation fro the new undertakers for conveyance of letters at half the rates ... [London : s.n., 1653].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Postal service --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Postal rates --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:212616:1"/>
+            <pb facs="tcp:212616:2"/>
+            <pb n="1" facs="tcp:212616:2"/>
+            <head>The Case of the Undertakers For reducing Postage of Inland Letters to just and moderate Rates, STATED.</head>
+            <head type="sub">And therein, the Liberty of a Commonwealth, the weal of the Merchant and industrious Trader, and the birth<g ref="char:EOLhyphen"/>right of every Free-man vindicated from Monopolizing restraints, and Mercenary Farming of PUPLIKE OFFICES.</head>
+            <div type="part">
+               <head>The Case stated.</head>
+               <p>22 <hi>
+                     <seg rend="decorInit">J</seg>Unii,</hi> 13 <hi>Car.</hi> the late King by Letters Parents erects a new Office called <hi>The Letter-Office of England,</hi> to send all Letters to and fro within <hi>England, Scotland,</hi> and <hi>Ireland,</hi> (except such Letters as should be sent by common known Carriers, along with their Carts, Wag<g ref="char:EOLhyphen"/>gons, or Pack-horses; or a Letter or more sent by a messenger on purpose, or by a friend:) and to have and take for postage and con<g ref="char:EOLhyphen"/>veyance certain Rates therein specified.</p>
+               <p>And grants that Office to <hi>Thomas Withering</hi> for life, <hi>abs{que} aliquo inde reddendo;</hi> and with restraints of all others to carry, <hi>&amp;c.</hi>
+               </p>
+               <p>Notwithstanding those restrictions, divers persons continued their Liberty in send<g ref="char:EOLhyphen"/>ing and carrying Letters by Post; and when <hi>Withering</hi> offered to put in execution his restrictive clauses, and by colour thereof imprisoned <hi>Grover, Chatman, Cotton,</hi> and <hi>Mackedral,</hi> for posting with Letters; by the Votes of the late Parliament, on the 16 of <hi>August</hi> 1642. resolved, That the taking of Letters from, and the several restraints and imprisonments of the said persons, was against Law, Liberty, and freedom of the Subject; and that those several persons ought to have reparations from <hi>Cook, Winde<g ref="char:EOLhyphen"/>bank,</hi> Secretaries of State, and <hi>Withering;</hi> and that the said Secretaries and <hi>Withe<g ref="char:EOLhyphen"/>ring</hi> were Delinquents for the same: as by the Votes appeareth.</p>
+               <p>Mr. <hi>Prideaux,</hi> upon this occasion, and upon the right of Liberty that every man had to the employment, steps into it, keeps up a restraint, and continues to exact the high rate of 6 <hi>d.</hi> for every Letter.</p>
+               <p>The UNDERTAKERS observing this extortive rate to be held up, as well in <hi>Withe<g ref="char:EOLhyphen"/>rings</hi> life-time, as after his death, when the pretence of that illegal Grant was ended in point of limitation: and observing that the whole benefit went into one private hand, and that many publike and well-affected people were very much agrieved there<g ref="char:EOLhyphen"/>at; They conceived it would be a work both acceptable to the State, and beneficial to the people, to contrive the abatement of those excessive rates; and therefore, maugre all oppositions and abuses of the Monopolizer and his interest, they at first dash adventured on Postage at the rates of 3 <hi>d.</hi> a Letter beyond 80 miles, and 2 <hi>d.</hi> a Letter within or to 80 miles; and to make return three times weekly. And their ex<g ref="char:EOLhyphen"/>act performance in that Undertaking was so grateful to the people, and successful, that it forced the Monopolizer, for the present onely, and out of a designe to supplant the Undertakers, to publish his readiness to carry at the same rates.</p>
+               <p>But his designes not working with the people, (who were sensible from whom their benefit came) the Undertakers persist, till it pleased God to devolve Authority on such as had from the beginning countenanced this free undertaking, and who, in their first entrance on the management of Publike affairs, concurred with the peoples approba<g ref="char:EOLhyphen"/>tion of the Undertakers, and intrusted them with their ordinary and extraordinary Dispatches; which so daunted their Antagonist, that he deserted the business, and the Undertakers persisted to perform the service to the State <hi>gratis,</hi> and to all others faith<g ref="char:EOLhyphen"/>fully, at the lowe rate aforesaid: and reducing the same into one chanel, they enter<g ref="char:EOLhyphen"/>tained
+<pb n="2" facs="tcp:212616:3"/> as many of the old Post-masters as were honest and well-affected, according to the direction of the Councel of State; provided Packet-boats for <hi>Ireland,</hi> &amp;c. and have adventured, after so short experience, to make an offer of sinking the rates yet lower, <hi>viz.</hi> to 2 <hi>d.</hi> and 1 <hi>d.</hi> a Letter. <note place="margin">☞</note>
+               </p>
+               <p>But to frustrate the Undertakers, and before their great expences were reimbursed, an Order was procured from the late Councel of State, during the interval of Parlia<g ref="char:EOLhyphen"/>ment, to invest one Mr. <hi>John Manley,</hi> in the Inland and Forreign Postage, under a farm of 10100 <hi>l. per an.</hi> And the said <hi>Manley,</hi> immediately thereor, in the company of Mr. <hi>Prideaux,</hi> did, in a riotous manner, with swords and other weapons, by force break into the house where the Goods and Letters of the Undertakers were, and thrust their servants out of doors; and, after threatning speeches, and many more outrages com<g ref="char:EOLhyphen"/>mitted, required the Undertakers to receive no more Letters.</p>
+            </div>
+            <div type="part">
+               <head>The right of Liberty vindicated and proved.</head>
+               <p>THis being the sum of the Case, it follows that the right of Liberty on which they grounded their Undertaking be vindicated.</p>
+               <p>Wherein the Question is, Whether there be a Right of Liberty in the Free peo<g ref="char:EOLhyphen"/>ple of <hi>England,</hi> up and down the common roads of <hi>England,</hi> by way of common Postage to send &amp; carry as they please, and at such rates as they shall agree, Letters, Packets, and such-like Dispatches incident to Commerce and Communication, without being re<g ref="char:EOLhyphen"/>strainable to one person, whom all must be necessitated to trust, and by whom onely all must send in the way of common Postage, and at such rates as it shall please the granter of that restraint to limit.</p>
+               <p>The very light of Nature shews, that originally to a Community of free men link<g ref="char:EOLhyphen"/>ed <note place="margin">First proof, by the light of Na<g ref="char:EOLhyphen"/>ture, and by the original nature of a Free State.</note> together as a Commonwealth, and by civil Commerce and Intercourse aiming at Temporal weal, a right of Liberty to communicate their intents and mindes, by all lawful ways, and therefore by this way of Postage, as well as by any other, is innate and inherent, as that without which free Commerce cannot consist.</p>
+               <p>If then in the original Constitution of the Free State of <hi>England,</hi> (as of every other Civil Community) this Liberty was a right inherent in the People, it still remains in them, unless it can be shewn that they have given it up; which never can be shewn: for why should rhey give up their liberty to communicate their affairs by this way of common Postage, more then by any other way? Or how can steady limits or distin<g ref="char:EOLhyphen"/>ctive bounds be set between this way of Liberty that they would restrain, and other ways of Liberty that they would seem to leave them? For if one, and two, and ten may use a special Poster, why may not a Corporation do the like? and what shall di<g ref="char:EOLhyphen"/>stinguish such a special Post as you seem to allow, from a common, which you would restrain?</p>
+               <p>To restrain all ways of Free Communication, is downright to destroy Society: to restrain some lawful ways, is to impair Society, and destroyeth freedom of Society, and maketh way arbitrarily, by further and further restraints, to impair it at pleasure.</p>
+               <p>Besides that it administreth occasion of dayly quarrels about the limits of Restraint.</p>
+               <p>All which reasons make it more then probable, that the Original Liberty of the free People in all lawful ways to communicate, was by them never yeelded up to restraint.</p>
+               <p>On the other side, it will easily be proved, that they never intrusted the Supreme <note place="margin">Secondly, by the Fundamental Law of Eng<g ref="char:EOLhyphen"/>land.</note> Ordinary Power with Authority in any way to restrain lawful employments, but with watchful jealousie have in all Ages preserved a full and free Liberty to every man to undertake them; well considering, that any restraint of lawful Industries, is a kinde of strangling and stopping the Life-blood to flow freely in all its veins: This destroys or hurts the whole Natural body, That the Politick.</p>
+               <p>And therefore by the Fundamental Common Law of <hi>England,</hi> a Bond, though the party himself will give it to restrain himself of his lawful Trade or Industry, is adjudged void, and not binding. 2 <hi>H.</hi> 5. <hi>fol.</hi> 5. <hi>Plito</hi> 26.</p>
+               <p>On the same ground it is, that the Fundamental Law of <hi>England</hi> will not permit you to distrein and take from a man, though for a just duty, any Instrument necessary to his Trade, or free course of Industry, 14 <hi>H.</hi> 8. The Anvil from a Smith, or Mill<g ref="char:EOLhyphen"/>stone from the Mill, may not be distrained or taken, because it would interrupt and restrain their lawful Employments. And hereto accords the Law of God, <hi>Deut.</hi> 24. 6. <hi>No man shall take the nether or the upper milstone to pledge: for he taketh a mans life to pledge.</hi>
+                  <pb n="3" facs="tcp:212616:3"/> To restrain any man of his lawful means of Livelihood, is to take away his life: and yet Mr. <hi>Manley</hi> would, <hi>&amp;c.</hi>
+               </p>
+               <p>On the same ground it i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that Corporations or Bodies Politick (though authorized to make Constitutions and by Laws, yet) if they make a Law any way restraining any man from any lawful way of Employment or Industry, such Constitution o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Law (be it never so specious, and though perhaps it intended Order and Regulation of Employments, yet) restraining, it is null and void. 11 <hi>Rep. fol.</hi> 53. <hi>Taylors of Ipswich,</hi> Their Constitu<g ref="char:EOLhyphen"/>tion (That none within their Coporation should exercise the Faculty or Employment of a Taylor until they had presented themselves, and had approbation from the Master and Wardens) adjudged void, though it did not absolutely restrain, as Mr. <hi>Manley</hi> would in this case all others from executing this lawful Employment of Postage.</p>
+               <p>On the same ground, Letters Patents (though passed under the Great Seal of <hi>England)</hi> if they restrain any lawful Employment to one man, &amp; leave it not free to every other, are void; as in the 11 <hi>Rep. fol.</hi> 85. the Patent that <hi>Darcy</hi> onely should have the making and importing of Playing Cards, the Restraint of others from that Employment (though it served but to Vanity and Gaming, which might be prohibited) adjudged unlawful, on grave and weighty reasons. May then these Undertakers be restrained from this Employment, that serves eminently to enliven Merchandise &amp; all Commerce?</p>
+               <p>50 <hi>E.</hi> 3. <hi>Rot.</hi> 33. <hi>Parl. Rol.</hi> one <hi>Peachey</hi> obtained a Patent that he should be the onely Importer of Sweet Wines: but his Patent was damned by Judgment in Parliament.</p>
+               <p>21 <hi>E.</hi> 4. <hi>fol.</hi> 79. <hi>Edw.</hi> the fourth by Patent granted to one <hi>Molle,</hi> that he should have the Office of Brokage, or of driving Bargains 'twixt Citizen and Citizen in <hi>London;</hi> and the Patent censured, as against Law. And yet Mr. <hi>Manley</hi> will expect to be the onely Poster with Letters and Dispatches; by which Citizens and all others are to drive their Bargains and Contracts.</p>
+               <p>Hundreds of Instances might be heaped up, to shew the vigilancie of the Courts of of Law and of Parliaments in all Ages, to withstand all restraints of lawful Employ<g ref="char:EOLhyphen"/>ments. One Instance more shall conclude; which is this.</p>
+               <p>The Corporation of <hi>Gravesend</hi> had by Prescription an ancient Ferry and Passage with a common Barge for the benefit of poor Passengers to and fro 'twixt <hi>London</hi> and <hi>Gravesend,</hi> which carried them for 2 <hi>d.</hi> apiece, and was to pass away as soon as at that rate it had 4 <hi>s.</hi> But the Corporation finding that oftentimes when the common Barge had 23 Passengers, and was to stay but for one more, other Water-men that plyed at the Ferry, would take up the next Passenger at cheap rates, whereby the Barge lay long for want of a compleat number; to rectifie which Mischief, the Corporation (being thereto impowered by Letters Patents) make a Constitution or Law, That no other should carry, till the common Barge had its full number. This (though it restrained not others to carry, but onely gave pre-eminence to the Barge, and that at that onely Ferry, and that for so good an end, yet) on great and grave reasons, <hi>Tr.</hi> 10 <hi>Jac. C. B.</hi> it was adjudged an unlawful restraint, for that others were thereby abridged to make use of a lawful means of Livelihood: And when a Passenger was willing to be carried by another Water-man, and he willing to carry, what reason to abridge him of his lawful Employment? And if pre-eminence might be given in that Case, then Letters Patents might grant pre-eminence to one Coach-man to carry in <hi>London-</hi>streets, before another should take a Carriage; and way would be made to some restraint in every lawful Employment.</p>
+               <p>Now if to grant a pre-eminence in carriage, be not to be permitted; shall it be thought lawful to exclude these Undertakers totally from carrying for all that are willing to send by them?</p>
+               <p>To these proofs of Liberty drawn out of the Fundamental Common Law of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+                  <note place="margin">By the Great Charter, and o<g ref="char:EOLhyphen"/>ther Acts of Parliament.</note> adde that of <hi>Magna Charta,</hi> cap. 29. <hi>No free man shall be disseized of his Free<g ref="char:EOLhyphen"/>hold or Liberties,</hi> &amp;c. Which the Chief Justice <hi>Cook</hi> glosseth, in these words: <hi>This word LIBERTIES</hi> (saith he) <hi>signifieth the freedom that the Subjects have. For example: The Company of the Merchant-Taylors of</hi> London <hi>having power by their Charter to make Ordinances, made an Ordinance that every brother of the same Society should put the one half of his Clothes to be dressed by some Cloth-worker free of the same Company; and it was adjudged that this Ordinance was against Law, because it restrains the Liberty of the Subject to put his Cl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thes to be dressed by whom he will:</hi> &amp; sic de similibus. <hi>And so it is if such or the like Grant had been made by Letters Patents.</hi> Thus he.</p>
+               <pb n="4" facs="tcp:212616:4"/>
+               <p> And was this <hi>partial</hi> restraint of liberty to use whom they would for dressing, a<g ref="char:EOLhyphen"/>gainst Law and Liberty confirmed by <hi>Magna Charta;</hi> and is not this <hi>total</hi> of the Peoples Liberty to use whom they will for Posting with their Letters and Dispatches, against the same <hi>Magna Charta?</hi> And if against <hi>Magna Charta,</hi> against more then 20 other Acts of Parliament confirming the same. So that it is needless to adde more Acts of Parliament for vindication of this right of Liberty.</p>
+               <p>Now to these proofs, onely adde the Resolves in Parliament, and Resolution of <note place="margin">Resolves of Parliament, &amp; Resolution of Judges in the point.</note> Judges in the very point in this particular Case.</p>
+               <p n="1">1. The Resolve 16 <hi>Augusti,</hi> 1642. in stating the Case above mentioned.</p>
+               <p n="2">2. In pursuance of an Order of the Lords in Parliament, 22 <hi>Julii,</hi> 1646. the opi<g ref="char:EOLhyphen"/>nions of Judge <hi>Rolle</hi> and <hi>Phesant</hi> were delivered, <hi>That the clauses of Restraint in</hi> Wi<g ref="char:EOLhyphen"/>therings <hi>Patent were void, and not good in Law.</hi> And the Committee of Lords of Par<g ref="char:EOLhyphen"/>liament concurred in opinion with the Judges. Whereupon, <hi>Ordered,</hi> &amp;c.</p>
+               <p>This which is said, together with the manifold mischiefs and miseries that ever en<g ref="char:EOLhyphen"/>sue on such Restraints (which the Authorities cited give some touch of) shall serve to conclude this Part, which is to vindicate and prove a legal right of Liberty not subject to Monopolizing Restraints.</p>
+            </div>
+            <div type="part">
+               <head>Farming of Publike Offices condemned.</head>
+               <p>NOw as Restraint of just Liberty is condemned by Law, as pernitious to a free People; so yet further, the mercenary farming of Publike Offices or Employments is much more abhorred, as the very bane of a Republike. This abuse was it that cau<g ref="char:EOLhyphen"/>sed the Romane Patriot to bid a sad and sharp farewel to <hi>Rome:</hi>
+               </p>
+               <q>
+                  <hi>Vade venalis civitas, mox peritura si emptorem invenias.</hi> Salust.</q>
+               <p>Against this abuse the wisdom of Parliament bendsit self, 12 <hi>R.</hi> 2. <hi>c.</hi> 2. <hi>That none should be put in Offices by suit, or for reward, gift, or brokage, but upon desert.</hi> A Law (saith <hi>Cook)</hi> worthy to be written in letters of gold.</p>
+               <p>Against this abuse in many Offices of the like nature, the Stat. 5 <hi>E.</hi> 6. <hi>c.</hi> 16. provides a sharp penalty; and the Preamble condemns it in all Places of Publike Trust. And Reason and Experience shew it to be very incovenient: for will not he that thus buys his Employment by whole-sale, sell by retail, in polling and exacting on the people? And though his Exactions should be grievous, will he not hope to finde favour against Complaints, as being the States Farmer?</p>
+               <p>And seeing the State are at no costs to accommodate the People with Postage, what ground is there to nip a Farm or peny towards it, out of every poor mother that desires to hear from her childe? Is not this that <hi>Tallagium non concedendū,</hi> against which the Stat. 25 <hi>E.</hi> 1. &amp; 34 <hi>E.</hi> 1. <hi>de Tallagio,</hi> do provide? <hi>Within this Act</hi> (saith <hi>Cook</hi> 2 Inst. 533) <hi>are all new Offices erected with new Fees, or old Offices with new Fees: for that is a Tallage put upon the Subject.</hi> And therefore such Grant, though made <hi>pro bono publico,</hi> was in Parl. 13 <hi>H.</hi> 4. <hi>num.</hi> 43. condemned, <hi>quia sonat in oppressionem populi.</hi> And if this of Postage be not a new Office, yet in the restrictive part it is no elder then 13 <hi>Car.</hi> and that re<g ref="char:EOLhyphen"/>striction no sooner put in use, but condemned in Parl. 1642. And in this point of rai<g ref="char:EOLhyphen"/>sing a Farm out of this publike employment, the designe is so new, that to this day the Free-men of <hi>England</hi> have not been acquainted with it; nor did any polling Courtier, when the strains of Prerogative were at highest, ever offer at it: but the Kings Grant was always <hi>Absque aliquo inde reddendo.</hi>
+               </p>
+               <p>If it be objected, <hi>That the absolute power of Parliament is not restrained to the Law that is, but may make a</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label>
+                  <hi>a Law for erecting an Office, and with restraint of all men to use that Officer, and at such a fee or rate out of which they may reserve a Farm:</hi> 'Tis humbly conceived that the wisdom of Parliament will not be <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> taken in the wiles of such a Project, though the Projector shall bait his design with 10100 <hi>l. per an.</hi> profit. For that it is not only against Law, but against the fundamental Common law, against the innate liberty of a free-born people, against the Great Charter of Liberties, and sundry high-prized Acts of Parlia<g ref="char:EOLhyphen"/>ment; and so, that it makes way to, and introduceth all manner of Monopolies. The opposing whereof, hath made former Parliaments most dear to the people, and their memory precious. And it seems pro<g ref="char:EOLhyphen"/>bable, that the People would better brook 10100 <hi>l. per mens.</hi> added to the publike Tax, then 10100 <hi>l. per an.</hi> this way to be raised: for that being grounded on extraordinary occasions, cannot be drawn into ex<g ref="char:EOLhyphen"/>ample to charge them ordinarily (as this way:) That raiseth no more then is imposed, &amp; which comes to the Publike use; This gives occasion to the Farmer, under colour of raising his Farm, to raise to himself tre<g ref="char:EOLhyphen"/>ble as much, by keeping up high rates, and exacting. That proportionably lays the charge on all men according to their value, This pincheth the Merchant and active Dealer (most to be favoured and en<g ref="char:EOLhyphen"/>couraged) and lets the idle Drone and lazie Peasant go free; which is against Distributive justice.</p>
+               <p>All which Reasons and Considerations are humbly submitted to judgement of the true Patriots of the Peoples Liberty, the present Parliament.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:212616:4"/>
+            <head>To all ingenuous People: A second Intimation from the <hi>New Ʋndertakers</hi> for conveyance of Letters at half the rates to severall parts of <hi>England</hi> and <hi>Scotland.</hi>
+            </head>
+            <p>VVHereas severall printed Papers have been scattered up and down the Cities of <hi>London,</hi> and <hi>Westminster,</hi> and in many considerable Townes and places in <hi>England</hi> and <hi>Scotland,</hi> intimating, that if any persons send their Letters by the Old Post, they will have a free and safe going and coming, but if they send by the New Undertakers, their passage will be interrupted, which we cannot but look upon as a Design on purpose to deter all persons from bringing their Letters to us, which Design we per<g ref="char:EOLhyphen"/>ceive is still carried on, as appears by a bufie Pamphleteer in his last weekly book of severall Proceedings, in which the said Paper is recited, as if the State had allowed thereof. And though divers persons imployed by us in the carriage of our Mayle, have of late under false colours and pretences been much affronted and interrupted by some malitious Post-Masters and o<g ref="char:EOLhyphen"/>thers, acting only upon the account of Self-interest, yet against them we are (upon good advice) proceeding by severall Actions and Indictments, and doubt not of Justice and reparation, according to due course of Law, all such interruption being contrary to the Law of the Land.</p>
+            <p>And whereas we have hitherto gone on, and resolve still to proceed in the management of our honest and just undertaking (which hath already been so serviceable to this Nation) in a legall and warrantable way: Now for the future prevention of abuses and affronts to those persons that shall be im<g ref="char:EOLhyphen"/>ployed by us, and to the end the people of this Nation may not be deceived by those false suggestions and pretences, which hitherto have been publish<g ref="char:EOLhyphen"/>ed only to delude them and abuse us; We whose names are hereunto sub<g ref="char:EOLhyphen"/>scribed, being the first Undertakers for the speedy conveyance of Letters at half the Rates to severall parts of <hi>England</hi> and <hi>Scotland,</hi> do hereby declare to all Gentlemen, Merchants, and other persons whatsoever, that we do in<g ref="char:EOLhyphen"/>tend resolvedly (by the help of God) to continue the management of this our undertaking, and for the further accommodation of all men of businesse, and for improvement of Trade, to carry to places not formerly supplied, with the like conveyance; as also to add one day more weekly for the send<g ref="char:EOLhyphen"/>ing out of Letters, (that is to say) <hi>Thursdaies</hi> as well as <hi>Tuesdaies</hi> and <hi>Satur<g ref="char:EOLhyphen"/>daies,</hi> and to have returns answerably, the first <hi>Thursday</hi> to begin the 28. of this present <hi>April,</hi> and the same places of receipt to continue as formerly, we having received much incouragement by ingenuous and publike minded peo<g ref="char:EOLhyphen"/>ple, and no discouragement at all from Supreme Authority, nor can it rati<g ref="char:EOLhyphen"/>onally be imagined, that ever they will countenance the Disturbers of so pub<g ref="char:EOLhyphen"/>like and beneficiall an undertaking.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Clement Oxenbridge.</item>
+                     <item>Francis Thomson.</item>
+                     <item>Richard Blackwall.</item>
+                     <item>William Malyne.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
